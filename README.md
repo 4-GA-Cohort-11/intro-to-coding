@@ -12,5 +12,4 @@ Hello all and welcome to the repository for the webinar of introduction to codin
 
 #### Getting Started
 
-If installation went smoothly and all is setup, I will see you
-on Thursday 14th of May at 10:00pm.
+If installation went smoothly and all is setup, I will see you soon.
